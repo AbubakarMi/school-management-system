@@ -1,0 +1,21 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/SchoolManagementSystem/obj/Debug/net8.0/staticwebassets
+/SchoolManagementSystem/obj/Debug/net8.0/ref
+/SchoolManagementSystem/obj/Debug/net8.0/refint
+/SchoolManagementSystem/obj/Debug/net8.0/EndpointInfo
+/SchoolManagementSystem/obj/Debug/net8.0
+/SchoolManagementSystem/obj
+/SchoolManagementSystem/bin/Debug/net8.0
+/SchoolManagementSystem/.vs/SchoolManagementSystem/v17
+/SchoolManagementSystem/.vs/SchoolManagementSystem/FileContentIndex
+/SchoolManagementSystem/.vs/SchoolManagementSystem/CopilotIndices/17.13.430.18484
+/School.Infrastructure/obj/Debug/net8.0
+/School.Infrastructure/obj
+/.vs/School Managament System/v17
+/School.Application/obj
+/School.Domain/bin/Debug/net8.0
+/School.Domain/obj
+/.vs/School Managament System/CopilotIndices/17.13.430.18484

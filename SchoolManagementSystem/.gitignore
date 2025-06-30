@@ -1,0 +1,2 @@
+# For .NET projects
+curl https://raw.githubusercontent.com/github/gitignore/main/VisualStudio.gitignore -o .gitignore
