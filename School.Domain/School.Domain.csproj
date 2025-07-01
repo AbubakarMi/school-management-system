@@ -7,12 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Entities\" />
-    <Folder Include="Common\" />
-    <Folder Include="Enums\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <None Include="Application.csproj" />
   </ItemGroup>
 
