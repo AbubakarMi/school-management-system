@@ -1,6 +1,10 @@
-﻿namespace SchoolManagementSystem.Controllers
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
+
+[AllowAnonymous]
+[ApiController]
+[Route("api/[controller]")]
+public class AuthController : ControllerBase
 {
-    public class AuthController
-    {
-    }
+    // Login/Register here
 }

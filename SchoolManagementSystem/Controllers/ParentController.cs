@@ -1,6 +1,10 @@
-﻿namespace SchoolManagementSystem.Controllers
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
+
+[Authorize(Roles = AppRoles.Parent)]
+[ApiController]
+[Route("api/[controller]")]
+public class ParentController : ControllerBase
 {
-    public class ParentController
-    {
-    }
+    // Parent views child grades, pays fees, etc.
 }
